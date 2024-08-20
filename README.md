@@ -1,7 +1,7 @@
 # Hi, i'm Suna!
 
 <p align="center"> 
-  <img src="https://64.media.tumblr.com/493e7e1accb0a8802283eca81aff9770/tumblr_ngenn6W85N1r85hlio1_640.gif"
+  <img src="https://64.media.tumblr.com/493e7e1accb0a8802283eca81aff9770/tumblr_ngenn6W85N1r85hlio1_640.gif" alt="Hello world">
 </p>
 
 ## About Me 
